@@ -2,6 +2,7 @@
 {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 .main
 {
@@ -22,3 +23,7 @@ img
 
 
 /* - Aliamento horizontal da caixa */
+/* - Redefinir o tamanho da caixa 
+    O box-sizing faz com que o conteúdo dentro da caixa se ajuste para o tamanho da caixa 
+    estabelecida.
+*/
